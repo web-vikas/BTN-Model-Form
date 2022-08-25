@@ -27,7 +27,7 @@ button:active{
     background:rgb(251, 231, 255);
     border-radius: 10px;
     position:absolute;
-    top:50px;
+    top:-500px;
     padding:20px;
     transition: all 400ms ease-in-out;
     
